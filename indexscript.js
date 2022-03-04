@@ -1,3 +1,8 @@
-function run(){
-  document.getElementById("test").innerHTML = hello
-}
+$(document).ready(function(){
+  
+  $("#button").click(function(){
+    $("#test").text('hello');
+    console.log("test")
+  });
+
+});
