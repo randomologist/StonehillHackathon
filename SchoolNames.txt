@@ -1,0 +1,105 @@
+|English Name| Arabic Name| Coordinants|
+
+The Egyptian American International School| المدرسة المصرية الأمريكية الدولية|
+29.993423357650002, 31.418785098165323
+
+The American International School in Egypt| المدرسة الامريكية الدولية| 
+30.0377605921581, 31.420416218741384
+
+Abbas El Akkad Language School| مدرسة عباس العقاد التجريبية للغات|
+30.068228473010315, 31.33134212772173
+
+Collège De La Sainte Famille (PCH)
+مدرسة العائلة المقدسة
+30.097357929568595, 31.339553511399586
+
+Collège Sacré-Cœur Ghamra
+مدرسة القلب المقدس غمرة
+30.07256452837145, 31.27029763618332
+
+Collège du Sacré-Coeur Heliopolis
+مدرسة القلب المقدس - مصر الجديدة
+30.100615074965447, 31.32468663803225
+
+Dar El Tarbiah School IGCSE/American
+مدرسة دار التربية هلوو مرحبا بكم ايد ادرس هسه اننيكم
+30.062741563993015, 31.222806111100013
+
+Deutsche Schule Der Borromarinnen DSB Kairo
+مدرسة سان شارل بورومى الالمانية
+30.04304567807031, 31.241007642315065
+
+Deutsche Evangelische Oberschule Kairo
+المدرسة الألمانية الإنجيلية الثانوية بالقاهرة
+30.032612296931458, 31.210806288912927
+
+Fatma El Zahraa Experimental School
+مدرسة فاطمة الزهراء الرسمية لغات
+30.073902086565383, 31.24188969721269
+
+The International School of Choueifat - Cairo
+مدارس الشويفات الدولية
+30.002385840680866, 31.4067874087806
+
+
+
+
+
+مدرسة جرين هايتس الدولية - مدارس مصر
+
+
+Cairo Japanese School
+مدرسة القاهرة اليابانية
+29.97438143044127, 31.155079588004362
+
+The British International School, Cairo
+المدرسة البريطانية الدولية بالقاهرة
+30.073524830875463, 30.948277774803643
+
+Green Land Pré Vert International School
+جرين لاند بري فيرت إنترناشونال سكول
+30.10774001021938, 31.18930536362533
+
+The International School of Choueifat - City of 6 October
+مدارس الشويفات الدولية
+29.968228972202144, 31.036123971948946
+
+Deutsche Schule der Borromäerinnen Alexandria
+مدرسة سان شارل بورومى الالمانية
+31.191997137510292, 29.897511110230983
+
+Schutz American School
+المدرسة الامريكية شوتز
+31.241589795126394, 29.97443412394506
+
+The Egyptian English Language School
+المدرسة المصرية الانجليزية
+31.263266877494047, 30.02769339448486
+
+Collège Saint-Marc
+كلية سان مارك
+31.210817174442756, 29.917845875666806
+
+Victoria College
+كلية النصر فيكتوريا \فكتوريا كويدج
+31.248562163622648, 29.97844882661688
+
+Salahaldin International School
+مدرسة صلاح الدين الدولية
+31.166752427485154, 29.99262431571277
+
+Ecole Fraçaise
+المدرسة الفرنسية
+27.2892848804857, 33.7322370276712
+
+German School in Hurghada
+المدرسة الألمانية بالغردقة
+27.189240569736153, 33.828264710067366
+
+Secondary School for Boys
+مدرسة الشهيد محمد هاني لاشين الثانوية بنين
+30.829218213699868, 30.812893577590533
+
+Manqabad Secondary School
+مدرسة منقباد الثانوية المشتركة
+27.20273552360328, 31.107093969598793
