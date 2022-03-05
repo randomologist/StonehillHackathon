@@ -111,12 +111,15 @@ $(document).ready(function(){
       });
     }
   });
-  
+
+  //Allows the user to find the closest schools near their address
   $("#closeness").click(function(){
     if (markerAdded == false) {
       alert("Please input your address or press \"Find My Location\".\nالرجاء إدخال عنوانك أو الضغط على \" البحث عن موقعي\".");
     } else {
-      myDistance = []
+      myDistance = [];
+      schoolInfo.distances = [];
+      closestSchools = [];
       for (let i=0,x=0; i<schoolInfo.englishName.length; i++){
         x = i*2;
         sLocation = L.latLng(schoolInfo.coords[x], schoolInfo.coords[x+1]);
@@ -127,9 +130,12 @@ $(document).ready(function(){
       myDistance.sort(function(a, b){return a - b});
       for (let x=0; x<5; x++) {
         for (let i=0; i<schoolInfo.englishName.length; i++) {
+          if (i == 0 & x == 0) {
+            $("#sClosest").append("<br><b>أقرب المدارس:<br>Closest schools:</b>");
+          }
           if (myDistance[x] == schoolInfo.distances[i]) {
             closestSchools.push(schoolInfo.arabicName[i] + "\n" + schoolInfo.englishName[i]);
-            console.log(schoolInfo.englishName[i]);
+            $("#sClosest").append("<br><br>" + schoolInfo.arabicName[i] + "<br>" + schoolInfo.englishName[i]);
           }
         }
       }
