@@ -32,6 +32,7 @@ $(document).ready(function(){
     shadowAnchor: [13, 40]
   });
 
+  //Declaration of variables
   let markerAdded = false;
   let m_iuYou = L.marker([0,0],{icon:myIcon});
   let getVal;
