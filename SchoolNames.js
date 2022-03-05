@@ -94,8 +94,6 @@ let schoolInfo = {
     "Abu Simbel Secondary School",
     "Aswan University",
     "Al-Nahda University"
-
-
   ],
   arabicName:[
     "المدرسه الإنجليزيه الحديثه بالقاهرة",
